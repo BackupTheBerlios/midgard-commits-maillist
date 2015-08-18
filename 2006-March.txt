@@ -1,0 +1,621 @@
+From christof at berlios.de  Wed Mar  1 10:06:42 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Wed, 01 Mar 2006 10:06:42 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard ChangeLog TODO midgard.glade"
+Message-ID: <44056422.mailI2Y14Q099@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard
+In directory sheep:/tmp/cvs-serv23061
+
+Modified Files:
+	ChangeLog TODO midgard.glade 
+Log Message:
+icons setzen, TODO, InfoFenster erst ab Error zeigen
+monotone christof at petig-baender.de 28 Feb 2006 22:06:35 +0000 05519c7aa2e9513122e335cc2acc144c05ed56d7
+
+
+
+From christof at berlios.de  Wed Mar  1 10:06:42 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Wed, 01 Mar 2006 10:06:42 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/src MagusDialog_glade.cc WindowInfo.cc
+ WindowInfo_glade.cc"
+Message-ID: <44056422.mailI3B11WZYF@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/src
+In directory sheep:/tmp/cvs-serv23061/src
+
+Modified Files:
+	MagusDialog_glade.cc WindowInfo.cc WindowInfo_glade.cc 
+Log Message:
+icons setzen, TODO, InfoFenster erst ab Error zeigen
+monotone christof at petig-baender.de 28 Feb 2006 22:06:35 +0000 05519c7aa2e9513122e335cc2acc144c05ed56d7
+
+
+
+From christof at berlios.de  Wed Mar  1 10:06:48 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Wed, 01 Mar 2006 10:06:48 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/src DialogAuswahl.cc DialogAuswahl.hh
+ Makefile.am"
+Message-ID: <44056428.mailI7J1JI5XR@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/src
+In directory sheep:/tmp/cvs-serv23061/src
+
+Modified Files:
+	Makefile.am 
+Added Files:
+	DialogAuswahl.cc DialogAuswahl.hh 
+Log Message:
+Zwischenversion: Auswahl halb fertig
+monotone christof at petig-baender.de 28 Feb 2006 23:00:43 +0000 fef34a2b42bc8742493dbbd32b71caf09e549c68
+
+
+
+From christof at berlios.de  Wed Mar  1 10:06:51 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Wed, 01 Mar 2006 10:06:51 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/src DialogAuswahl.cc DialogAuswahl.hh"
+Message-ID: <4405642B.mailIA511JEY5@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/src
+In directory sheep:/tmp/cvs-serv23061/src
+
+Modified Files:
+	DialogAuswahl.cc DialogAuswahl.hh 
+Log Message:
+some compilation fixes
+monotone christof at petig-baender.de 01 Mar 2006 09:06:14 +0000 d254673f744acae9beca8788ccf76a31eb1aec20
+
+
+
+From sandro at berlios.de  Wed Mar  1 18:32:45 2006
+From: sandro at berlios.de (sandro at BerliOS)
+Date: Wed, 01 Mar 2006 18:32:45 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard-postgres angeborene_fertigkeiten ausnahmen
+ berufe_voraussetzung_4 berufe_vorteile_4 fertigkeiten fertigkeiten_besitz
+ fertigkeiten_typen fertigkeiten_voraussetzung fertigkeiten_voraussetzungen_2 fz_zusaetze grad_anstieg ki_prototyp kido land land_nachbarland lernschema_4 pflicht_lernen preise preise_mod preise_mod_spez preise_modifikation prototyp2 regionen regionen_lernen ruestung schrift spezialgebiete spezies spezies_angeborene_fert spezies_herkunft spezies_typen sprache_schrift sprachen steigern_fertigkeiten steigern_fertigkeiten_mit steigern_fertigkeiten_werte typen typen_gruppe typen_herkunft waffen waffen_grund waffen_grund_typen waffen_region_name waffen_steigern waffen_typen waffen_voraussetzung zauber zauber_beschreibung zauber_typen zauberwerk zauberwerk_typen zauberwerk_voraussetzung"
+Message-ID: <4405DABD.mailIZT1UMT8M@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard-postgres
+In directory sheep:/tmp/cvs-serv20576
+
+Modified Files:
+	angeborene_fertigkeiten ausnahmen berufe_voraussetzung_4 
+	berufe_vorteile_4 fertigkeiten fertigkeiten_besitz 
+	fertigkeiten_typen fertigkeiten_voraussetzung 
+	fertigkeiten_voraussetzungen_2 fz_zusaetze grad_anstieg 
+	ki_prototyp kido land land_nachbarland lernschema_4 
+	pflicht_lernen preise preise_mod preise_mod_spez 
+	preise_modifikation prototyp2 regionen regionen_lernen 
+	ruestung schrift spezialgebiete spezies 
+	spezies_angeborene_fert spezies_herkunft spezies_typen 
+	sprache_schrift sprachen steigern_fertigkeiten 
+	steigern_fertigkeiten_mit steigern_fertigkeiten_werte typen 
+	typen_gruppe typen_herkunft waffen waffen_grund 
+	waffen_grund_typen waffen_region_name waffen_steigern 
+	waffen_typen waffen_voraussetzung zauber zauber_beschreibung 
+	zauber_typen zauberwerk zauberwerk_typen 
+	zauberwerk_voraussetzung 
+Log Message:
+Typo bei "Bannsph??re, goldene" in zauber_typen korrigiert
+
+
+
+
+From christof at berlios.de  Wed Mar  1 19:03:31 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Wed, 01 Mar 2006 19:03:31 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard-postgres Makefile drop_all_varying"
+Message-ID: <4405E1F3.mailA2G11MY3G@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard-postgres
+In directory sheep:/tmp/cvs-serv13041
+
+Modified Files:
+	Makefile drop_all_varying 
+Log Message:
+cleanup target, add another bunch of lines to drop_all_varying
+monotone christof at petig-baender.de 01 Mar 2006 17:59:05 +0000 2f10ff7486967a72d20ed6c66f75e2d0b3431fdd
+
+
+
+From christof at berlios.de  Wed Mar  1 19:03:50 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Wed, 01 Mar 2006 19:03:50 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard-postgres Makefile angeborene_fertigkeiten
+ ausnahmen berufe_voraussetzung_4 berufe_vorteile_4 drop_all_varying
+ fertigkeiten fertigkeiten_besitz fertigkeiten_typen
+ fertigkeiten_voraussetzung fertigkeiten_voraussetzungen_2 fz_zusaetze
+ grad_anstieg ki_prototyp kido land land_nachbarland lernschema_4
+ pflicht_lernen preise preise_mod preise_mod_spez preise_modifikation
+ prototyp2 regionen regionen_lernen ruestung schrift spezialgebiete spezies
+ spezies_angeborene_fert spezies_herkunft spezies_typen sprache_schrift
+ sprachen steigern_fertigkeiten steigern_fertigkeiten_mit
+ steigern_fertigkeiten_werte typen typen_gruppe typen_herkunft waffen
+ waffen_grund waffen_grund_typen waffen_region_name waffen_steigern
+ waffen_typen waffen_voraussetzung zauber zauber_beschreibung zauber_typen
+ zauberwerk zauberwerk_typen zauberwerk_voraussetzung"
+Message-ID: <4405E206.mailA6011FBIX@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard-postgres
+In directory sheep:/tmp/cvs-serv13041
+
+Modified Files:
+	Makefile angeborene_fertigkeiten ausnahmen 
+	berufe_voraussetzung_4 berufe_vorteile_4 drop_all_varying 
+	fertigkeiten fertigkeiten_besitz fertigkeiten_typen 
+	fertigkeiten_voraussetzung fertigkeiten_voraussetzungen_2 
+	fz_zusaetze grad_anstieg ki_prototyp kido land 
+	land_nachbarland lernschema_4 pflicht_lernen preise preise_mod 
+	preise_mod_spez preise_modifikation prototyp2 regionen 
+	regionen_lernen ruestung schrift spezialgebiete spezies 
+	spezies_angeborene_fert spezies_herkunft spezies_typen 
+	sprache_schrift sprachen steigern_fertigkeiten 
+	steigern_fertigkeiten_mit steigern_fertigkeiten_werte typen 
+	typen_gruppe typen_herkunft waffen waffen_grund 
+	waffen_grund_typen waffen_region_name waffen_steigern 
+	waffen_typen waffen_voraussetzung zauber zauber_beschreibung 
+	zauber_typen zauberwerk zauberwerk_typen 
+	zauberwerk_voraussetzung 
+Log Message:
+drop the varying part of sandros checkin
+monotone christof at petig-baender.de 01 Mar 2006 18:03:56 +0000 32d6ad88286bb212024c87d7186876ff36efa6dd
+
+
+
+From sandro at berlios.de  Tue Mar  7 13:20:47 2006
+From: sandro at berlios.de (sandro at BerliOS)
+Date: Tue, 07 Mar 2006 13:20:47 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/tools - New directory"
+Message-ID: <440D7A9F.mail6MK1HICYL@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/tools
+In directory sheep:/tmp/cvs-serv8575/tools
+
+Log Message:
+Directory /cvsroot/midgard/midgard/tools added to the repository
+
+
+
+From sandro at berlios.de  Tue Mar  7 13:21:19 2006
+From: sandro at berlios.de (sandro at BerliOS)
+Date: Tue, 07 Mar 2006 13:21:19 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/tools/OnlineChareingabe - New directory"
+Message-ID: <440D7ABF.mail6W5128YK1@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/tools/OnlineChareingabe
+In directory sheep:/tmp/cvs-serv8924/tools/OnlineChareingabe
+
+Log Message:
+Directory /cvsroot/midgard/midgard/tools/OnlineChareingabe added to the repository
+
+
+
+From sandro at berlios.de  Tue Mar  7 13:23:45 2006
+From: sandro at berlios.de (sandro at BerliOS)
+Date: Tue, 07 Mar 2006 13:23:45 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/tools/OnlineChareingabe CharEingabe.html
+ MAGuS_Create_1.php MAGuS_Create_Ausgabe.php"
+Message-ID: <440D7B51.mail7PK116CM3@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/tools/OnlineChareingabe
+In directory sheep:/tmp/cvs-serv9351/tools/OnlineChareingabe
+
+Added Files:
+	CharEingabe.html MAGuS_Create_1.php MAGuS_Create_Ausgabe.php 
+Log Message:
+
+Die Onlineeingabe f??r Abenteurer ins CVS eingef??gt. 
+
+
+
+From christof at berlios.de  Thu Mar  9 09:01:24 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Thu, 09 Mar 2006 09:01:24 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/libmagus Abenteurer_steigern.cc"
+Message-ID: <440FE0D4.mailNDE11FXLO@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/libmagus
+In directory sheep:/tmp/cvs-serv30256/libmagus
+
+Modified Files:
+	Abenteurer_steigern.cc 
+Log Message:
+Selbststudium 100% FP nehmen (statt f??lschlicherweise 133%)
+monotone christof at petig-baender.de 08 Mar 2006 22:14:51 +0000 30cec991b29de49e04d3dcd1c881c303dad85425
+
+
+
+From christof at berlios.de  Thu Mar  9 09:01:24 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Thu, 09 Mar 2006 09:01:24 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard NEWS"
+Message-ID: <440FE0D4.mailNDB1FJRTT@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard
+In directory sheep:/tmp/cvs-serv30256
+
+Modified Files:
+	NEWS 
+Log Message:
+Selbststudium 100% FP nehmen (statt f??lschlicherweise 133%)
+monotone christof at petig-baender.de 08 Mar 2006 22:14:51 +0000 30cec991b29de49e04d3dcd1c881c303dad85425
+
+
+
+From christof at berlios.de  Thu Mar  9 09:01:24 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Thu, 09 Mar 2006 09:01:24 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/src table_steigern.cc"
+Message-ID: <440FE0D4.mailNDI1IGF8X@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/src
+In directory sheep:/tmp/cvs-serv30256/src
+
+Modified Files:
+	table_steigern.cc 
+Log Message:
+Selbststudium 100% FP nehmen (statt f??lschlicherweise 133%)
+monotone christof at petig-baender.de 08 Mar 2006 22:14:51 +0000 30cec991b29de49e04d3dcd1c881c303dad85425
+
+
+
+From christof at berlios.de  Thu Mar  9 09:01:24 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Thu, 09 Mar 2006 09:01:24 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/libmagus/tests test9.cc Makefile.am soll"
+Message-ID: <440FE0D4.mailNDG1RQ1D0@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/libmagus/tests
+In directory sheep:/tmp/cvs-serv30256/libmagus/tests
+
+Modified Files:
+	Makefile.am soll 
+Added Files:
+	test9.cc 
+Log Message:
+Selbststudium 100% FP nehmen (statt f??lschlicherweise 133%)
+monotone christof at petig-baender.de 08 Mar 2006 22:14:51 +0000 30cec991b29de49e04d3dcd1c881c303dad85425
+
+
+
+From christof at berlios.de  Thu Mar  9 09:01:43 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Thu, 09 Mar 2006 09:01:43 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard NEWS TODO"
+Message-ID: <440FE0E7.mailNEV11DIUE@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard
+In directory sheep:/tmp/cvs-serv30256
+
+Modified Files:
+	NEWS TODO 
+Log Message:
+Lernschema Absturz behoben (begin_undo zerst??rt Abenteurer-Referenz)
+monotone christof at petig-baender.de 08 Mar 2006 23:09:38 +0000 f6bdec1e06be14d8fcea60095e3f487b089ffc90
+
+
+
+From christof at berlios.de  Thu Mar  9 09:01:44 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Thu, 09 Mar 2006 09:01:44 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/src DialogAuswahl.cc DialogAuswahl.hh
+ table_lernschema.cc"
+Message-ID: <440FE0E8.mailNF511AA7T@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/src
+In directory sheep:/tmp/cvs-serv30256/src
+
+Modified Files:
+	DialogAuswahl.cc DialogAuswahl.hh table_lernschema.cc 
+Log Message:
+Lernschema Absturz behoben (begin_undo zerst??rt Abenteurer-Referenz)
+monotone christof at petig-baender.de 08 Mar 2006 23:09:38 +0000 f6bdec1e06be14d8fcea60095e3f487b089ffc90
+
+
+
+From christof at berlios.de  Thu Mar  9 09:05:21 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Thu, 09 Mar 2006 09:05:21 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/src table_lernschema.cc"
+Message-ID: <440FE1C1.mailOQ211XH5A@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/src
+In directory sheep:/tmp/cvs-serv31933/src
+
+Modified Files:
+	table_lernschema.cc 
+Log Message:
+vor??bergehend die letzte Zusatzauswahl (im Hauptfenster) wieder aktivieren, bis das neue fertig ist
+monotone christof at petig-baender.de 09 Mar 2006 08:06:05 +0000 2c8adbf7e1e5e325f4b7596fdf553c2c1a490591
+
+
+
+From christof at berlios.de  Fri Mar 10 00:17:49 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Fri, 10 Mar 2006 00:17:49 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard TODO"
+Message-ID: <4410B79D.mailI0211GC9M@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard
+In directory sheep:/tmp/cvs-serv23304
+
+Modified Files:
+	TODO 
+Log Message:
+Bugliste durchgehen, da hat sich ja eine Menge angesammelt!
+monotone christof at petig-baender.de 09 Mar 2006 22:29:39 +0000 947c6e1288f2f3792d7929560130585aa929c5d8
+
+
+
+From christof at berlios.de  Fri Mar 10 00:17:56 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Fri, 10 Mar 2006 00:17:56 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/libmagus Waffe.hh"
+Message-ID: <4410B7A4.mailI0813TJBZ@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/libmagus
+In directory sheep:/tmp/cvs-serv23304/libmagus
+
+Modified Files:
+	Waffe.hh 
+Log Message:
+Waffenschwierigkeiten nach DFR4 Korrekturgelesen (schauder)
+monotone christof at petig-baender.de 09 Mar 2006 23:13:12 +0000 690b5c4a84713c96cdff386841eee1b65ee58190
+
+
+
+From christof at berlios.de  Fri Mar 10 00:17:56 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Fri, 10 Mar 2006 00:17:56 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/libmagus/tests waffenschwierigkeit.cc
+ Makefile.am"
+Message-ID: <4410B7A4.mailI0A1RN7LR@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/libmagus/tests
+In directory sheep:/tmp/cvs-serv23304/libmagus/tests
+
+Modified Files:
+	Makefile.am 
+Added Files:
+	waffenschwierigkeit.cc 
+Log Message:
+Waffenschwierigkeiten nach DFR4 Korrekturgelesen (schauder)
+monotone christof at petig-baender.de 09 Mar 2006 23:13:12 +0000 690b5c4a84713c96cdff386841eee1b65ee58190
+
+
+
+From christof at berlios.de  Fri Mar 10 00:17:57 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Fri, 10 Mar 2006 00:17:57 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/xml Gildenbrief.xml Kompendium.xml
+ Regelwerk4.xml"
+Message-ID: <4410B7A5.mailI0I1DJ78A@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/xml
+In directory sheep:/tmp/cvs-serv23304/xml
+
+Modified Files:
+	Gildenbrief.xml Kompendium.xml Regelwerk4.xml 
+Log Message:
+Waffenschwierigkeiten nach DFR4 Korrekturgelesen (schauder)
+monotone christof at petig-baender.de 09 Mar 2006 23:13:12 +0000 690b5c4a84713c96cdff386841eee1b65ee58190
+
+
+
+From christof at berlios.de  Fri Mar 10 00:18:01 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Fri, 10 Mar 2006 00:18:01 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/libmagus/tests lernliste.soll
+ waffenschwierigkeit.soll"
+Message-ID: <4410B7A9.mailI0U119BXG@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/libmagus/tests
+In directory sheep:/tmp/cvs-serv23304/libmagus/tests
+
+Added Files:
+	lernliste.soll waffenschwierigkeit.soll 
+Log Message:
+sollvorgaben (werden noch nicht ausgewertet)
+monotone christof at petig-baender.de 09 Mar 2006 23:17:52 +0000 914fbe75f1b488fff28526182032b94fbb160a82
+
+
+
+From christof at berlios.de  Fri Mar 10 00:19:02 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Fri, 10 Mar 2006 00:19:02 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard-postgres waffen"
+Message-ID: <4410B7E6.mailI2V1UHBU2@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard-postgres
+In directory sheep:/tmp/cvs-serv23425
+
+Modified Files:
+	waffen 
+Log Message:
+Waffenschwierigkeiten nach DFR4 korrigiert
+monotone christof at petig-baender.de 09 Mar 2006 23:08:21 +0000 4382fde1c4eeb278bef9b53621c041440c17befc
+
+
+
+From sandro at berlios.de  Sun Mar 12 23:16:36 2006
+From: sandro at berlios.de (sandro at BerliOS)
+Date: Sun, 12 Mar 2006 23:16:36 +0100
+Subject: [Magus-commits] Midgard CVS: "charaktere/Alessandro Filippetti Harvelin.magus
+ Sulvahir_II.magus VladimirRolveg.magus Chairon-Tidford.magus"
+Message-ID: <44149DC4.mailA1X11PDDL@sheep.berlios.de>
+
+Update of /cvsroot/midgard/charaktere/Alessandro Filippetti
+In directory sheep:/tmp/cvs-serv12943/Alessandro Filippetti
+
+Modified Files:
+	Harvelin.magus Sulvahir_II.magus VladimirRolveg.magus 
+Removed Files:
+	Chairon-Tidford.magus 
+Log Message:
+
+
+
+From sandro at berlios.de  Sun Mar 12 23:21:51 2006
+From: sandro at berlios.de (sandro at BerliOS)
+Date: Sun, 12 Mar 2006 23:21:51 +0100
+Subject: [Magus-commits] Midgard CVS: "charaktere/Alessandro Filippetti Chairon.magus"
+Message-ID: <44149EFF.mailAHH11DFS2@sheep.berlios.de>
+
+Update of /cvsroot/midgard/charaktere/Alessandro Filippetti
+In directory sheep:/tmp/cvs-serv13583/Alessandro Filippetti
+
+Added Files:
+	Chairon.magus 
+Log Message:
+
+
+
+From sandro at berlios.de  Tue Mar 14 18:16:29 2006
+From: sandro at berlios.de (sandro at BerliOS)
+Date: Tue, 14 Mar 2006 18:16:29 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/pixmaps/original-png - New directory"
+Message-ID: <4416FA6D.mail6Q015CKZE@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/pixmaps/original-png
+In directory sheep:/tmp/cvs-serv8706/pixmaps/original-png
+
+Log Message:
+Directory /cvsroot/midgard/midgard/pixmaps/original-png added to the repository
+
+
+
+From sandro at berlios.de  Tue Mar 14 18:28:37 2006
+From: sandro at berlios.de (sandro at BerliOS)
+Date: Tue, 14 Mar 2006 18:28:37 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/pixmaps/original-png Abwehr.png
+ Angeb_All.png Anpass-trans.png Armor-trans.png Ausruest.png Bagpipe.png
+ Blue-Dice-trans.png CountrChar-trans.png Cyan-Dice-trans.png Descr.Char.png
+ Dice-2W6-trans.png Dice-Ausruest.png Dice-W100-trans.png Dices2-grey.png
+ Dices2-trans.png EP-Eingabe2.png Edit-trans.png EditChar-trans.png
+ Eschar-trans.png Excl-50.png Exit-trans.png Fert-Gaukler.png
+ Fert-Schmied.png Fert-Taylor.png Fert_Laufen.png Fert_Lesen.png
+ Fert_Reiten.png Gaukler.png Grad-All.png Green-Dice-trans-50.png
+ Green-Dice-trans.png Grundwert.png Help-trans-new1.png Helper.png
+ Info-trans.png Ja.png Job-trans.png KiDo-trans.png L_Schema.png
+ Lang_Script-trans.png Laterne.png LearnRoll-trans.png Learning_by_Doing.png
+ Letter+Feather-grey.png Letter+Feather50.png LoadChar-trans.png
+ Magus-Download.png Misc-grey.png Modify.png Money-new-Shine.png
+ Money-new-pur.png NSC-Mode.png Nein-Big.png NewChar-trans.png New_Art.png
+ PP-Eingeben-trans.png Portrait.png PrintChar-trans.png Red-Dice-trans.png
+ Reduzieren-trans.png Regio_Alba.png Regio_Arkanum.png Regio_Gilde.png
+ Regio_H_u_D.png Regio_H_u_D_F.png Regio_Hausregel.png Regio_Nahuatlan.png
+ Regio_Rawindra.png Regio_Waeland.png Resistenz-trans.png Roll-magic.png
+ SaveChar-trans.png Self-Learning.png Skills-trans.png Steigern-trans.png
+ Steigern.png Teacher.png Trash.png TuT.png Tux-med-ind.png Undo.png
+ Verlernen-trans.png Vorgabe.png Waf_Mag_bon.png Weapon-trans.png
+ Wichtel-Arr-right.png Yellow-Dice-trans.png ZF_NewChar-trans.png Zauber.png
+ Zauberstab4.png abacus.png abgl_wert_32.png double-axe.png mag-tmp.png
+ redo.png wizzard-trans-50.png"
+Message-ID: <4416FD45.mail7E01F4K5T@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/pixmaps/original-png
+In directory sheep:/tmp/cvs-serv9429/pixmaps/original-png
+
+Added Files:
+	Abwehr.png Angeb_All.png Anpass-trans.png Armor-trans.png 
+	Ausruest.png Bagpipe.png Blue-Dice-trans.png 
+	CountrChar-trans.png Cyan-Dice-trans.png Descr.Char.png 
+	Dice-2W6-trans.png Dice-Ausruest.png Dice-W100-trans.png 
+	Dices2-grey.png Dices2-trans.png EP-Eingabe2.png 
+	Edit-trans.png EditChar-trans.png Eschar-trans.png Excl-50.png 
+	Exit-trans.png Fert-Gaukler.png Fert-Schmied.png 
+	Fert-Taylor.png Fert_Laufen.png Fert_Lesen.png Fert_Reiten.png 
+	Gaukler.png Grad-All.png Green-Dice-trans-50.png 
+	Green-Dice-trans.png Grundwert.png Help-trans-new1.png 
+	Helper.png Info-trans.png Ja.png Job-trans.png KiDo-trans.png 
+	L_Schema.png Lang_Script-trans.png Laterne.png 
+	LearnRoll-trans.png Learning_by_Doing.png 
+	Letter+Feather-grey.png Letter+Feather50.png 
+	LoadChar-trans.png Magus-Download.png Misc-grey.png Modify.png 
+	Money-new-Shine.png Money-new-pur.png NSC-Mode.png 
+	Nein-Big.png NewChar-trans.png New_Art.png 
+	PP-Eingeben-trans.png Portrait.png PrintChar-trans.png 
+	Red-Dice-trans.png Reduzieren-trans.png Regio_Alba.png 
+	Regio_Arkanum.png Regio_Gilde.png Regio_H_u_D.png 
+	Regio_H_u_D_F.png Regio_Hausregel.png Regio_Nahuatlan.png 
+	Regio_Rawindra.png Regio_Waeland.png Resistenz-trans.png 
+	Roll-magic.png SaveChar-trans.png Self-Learning.png 
+	Skills-trans.png Steigern-trans.png Steigern.png Teacher.png 
+	Trash.png TuT.png Tux-med-ind.png Undo.png Verlernen-trans.png 
+	Vorgabe.png Waf_Mag_bon.png Weapon-trans.png 
+	Wichtel-Arr-right.png Yellow-Dice-trans.png 
+	ZF_NewChar-trans.png Zauber.png Zauberstab4.png abacus.png 
+	abgl_wert_32.png double-axe.png mag-tmp.png redo.png 
+	wizzard-trans-50.png 
+Log Message:
+Original .png der (meisten) Buttons in einem eigenen Verzeichnis. Die Namen entsprechen nicht unbedingt denen der verwendeten Buttons.
+
+
+
+
+From sandro at berlios.de  Wed Mar 15 15:45:23 2006
+From: sandro at berlios.de (sandro at BerliOS)
+Date: Wed, 15 Mar 2006 15:45:23 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/docs headline.html"
+Message-ID: <44182883.mail8N71TFCAX@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/docs
+In directory sheep:/tmp/cvs-serv11181
+
+Modified Files:
+	headline.html 
+Log Message:
+
+
+
+From sandro at berlios.de  Wed Mar 15 23:02:15 2006
+From: sandro at berlios.de (sandro at BerliOS)
+Date: Wed, 15 Mar 2006 23:02:15 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/tools/OnlineChareingabe MAGuS_Create_1.php"
+Message-ID: <44188EE7.mailNRP11DBDG@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/tools/OnlineChareingabe
+In directory sheep:/tmp/cvs-serv30794
+
+Modified Files:
+	MAGuS_Create_1.php 
+Log Message:
+
+
+
+From sandro at berlios.de  Thu Mar 16 00:47:15 2006
+From: sandro at berlios.de (sandro at BerliOS)
+Date: Thu, 16 Mar 2006 00:47:15 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/pixmaps/desktop-icons - New directory"
+Message-ID: <4418A783.mailB7A1U7ROY@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/pixmaps/desktop-icons
+In directory sheep:/tmp/cvs-serv14483/pixmaps/desktop-icons
+
+Log Message:
+Directory /cvsroot/midgard/midgard/pixmaps/desktop-icons added to the repository
+
+
+
+From sandro at berlios.de  Thu Mar 16 00:48:46 2006
+From: sandro at berlios.de (sandro at BerliOS)
+Date: Thu, 16 Mar 2006 00:48:46 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/pixmaps/desktop-icons MAGUS-16x16.png
+ MAGUS-22x22.png MAGUS-24x24.png MAGUS-32x32.png MAGUS-48x48.png"
+Message-ID: <4418A7DE.mailD931GVJW1@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/pixmaps/desktop-icons
+In directory sheep:/tmp/cvs-serv15510/pixmaps/desktop-icons
+
+Added Files:
+	MAGUS-16x16.png MAGUS-22x22.png MAGUS-24x24.png 
+	MAGUS-32x32.png MAGUS-48x48.png 
+Log Message:
+Icons f??r Desktop-Verkn??pfungen
+
+
+
+

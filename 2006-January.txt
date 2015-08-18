@@ -1,0 +1,1146 @@
+From christof at berlios.de  Sun Jan  8 09:45:44 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Sun, 08 Jan 2006 09:45:44 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard NEWS TODO"
+Message-ID: <43C0D138.mailFAU11Q34M@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard
+In directory sheep:/tmp/cvs-serv19809
+
+Modified Files:
+	NEWS TODO 
+Log Message:
+test
+monotone christof at petig-baender.de 29 Dec 2005 22:44:56 +0000 3a3a2771d2ea97fe0ca568856e5d785d27b17662
+
+
+
+From christof at berlios.de  Sun Jan  8 09:45:49 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Sun, 08 Jan 2006 09:45:49 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard TODO"
+Message-ID: <43C0D13D.mailFB711HGE4@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard
+In directory sheep:/tmp/cvs-serv19809
+
+Modified Files:
+	TODO 
+Log Message:
+Praxispunkte? verbleibende FP anzeigen
+monotone christof at petig-baender.de 29 Dec 2005 23:34:52 +0000 5ab95895e0cbaf9cb112151e8814b90eb8d8d39c
+
+
+
+From christof at berlios.de  Sun Jan  8 09:45:49 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Sun, 08 Jan 2006 09:45:49 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/src table_steigern.cc"
+Message-ID: <43C0D13D.mailFBA11RWZ8@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/src
+In directory sheep:/tmp/cvs-serv19809/src
+
+Modified Files:
+	table_steigern.cc 
+Log Message:
+Praxispunkte? verbleibende FP anzeigen
+monotone christof at petig-baender.de 29 Dec 2005 23:34:52 +0000 5ab95895e0cbaf9cb112151e8814b90eb8d8d39c
+
+
+
+From christof at berlios.de  Sun Jan  8 09:45:51 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Sun, 08 Jan 2006 09:45:51 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/src table_steigern.cc"
+Message-ID: <43C0D13F.mailFBI114EK8@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/src
+In directory sheep:/tmp/cvs-serv19809/src
+
+Modified Files:
+	table_steigern.cc 
+Log Message:
+typo
+monotone christof at petig-baender.de 29 Dec 2005 23:36:38 +0000 e4510bc27a6be9975e185366f0ea9f46f9915aeb
+
+
+
+From christof at berlios.de  Sun Jan  8 09:45:57 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Sun, 08 Jan 2006 09:45:57 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/src table_steigern.cc"
+Message-ID: <43C0D145.mailFCD11P79W@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/src
+In directory sheep:/tmp/cvs-serv19809/src
+
+Modified Files:
+	table_steigern.cc 
+Log Message:
+verf??gbare FP in libmagus
+monotone christof at petig-baender.de 31 Dec 2005 06:45:14 +0000 542fb3fd702df0f80eb2f038d10412dd12e4b484
+
+
+
+From christof at berlios.de  Sun Jan  8 09:45:57 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Sun, 08 Jan 2006 09:45:57 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/libmagus Abenteurer.cc Abenteurer.hh"
+Message-ID: <43C0D145.mailFCB11CMKV@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/libmagus
+In directory sheep:/tmp/cvs-serv19809/libmagus
+
+Modified Files:
+	Abenteurer.cc Abenteurer.hh 
+Log Message:
+verf??gbare FP in libmagus
+monotone christof at petig-baender.de 31 Dec 2005 06:45:14 +0000 542fb3fd702df0f80eb2f038d10412dd12e4b484
+
+
+
+From christof at berlios.de  Sun Jan  8 09:45:57 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Sun, 08 Jan 2006 09:45:57 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard TODO"
+Message-ID: <43C0D145.mailFC811FYYY@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard
+In directory sheep:/tmp/cvs-serv19809
+
+Modified Files:
+	TODO 
+Log Message:
+verf??gbare FP in libmagus
+monotone christof at petig-baender.de 31 Dec 2005 06:45:14 +0000 542fb3fd702df0f80eb2f038d10412dd12e4b484
+
+
+
+From christof at berlios.de  Sun Jan  8 09:45:59 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Sun, 08 Jan 2006 09:45:59 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/libmagus Zufallscharakter.cc"
+Message-ID: <43C0D147.mailFCO1OR95G@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/libmagus
+In directory sheep:/tmp/cvs-serv19809/libmagus
+
+Modified Files:
+	Zufallscharakter.cc 
+Log Message:
+Zufallscharakter --help
+monotone christof at petig-baender.de 31 Dec 2005 06:53:20 +0000 323a2a3b957e7394fb64551fe60c4736e1e53ad4
+
+
+
+From christof at berlios.de  Sun Jan  8 09:46:04 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Sun, 08 Jan 2006 09:46:04 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/libmagus/tests Ma.magus"
+Message-ID: <43C0D14C.mailFDK1IH60E@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/libmagus/tests
+In directory sheep:/tmp/cvs-serv19809/libmagus/tests
+
+Added Files:
+	Ma.magus 
+Log Message:
+testObjekt
+
+monotone christof at petig-baender.de 31 Dec 2005 07:10:17 +0000 5959d2d0784a0e2b148a0ae36012ec09b8a0b997
+
+
+
+From christof at berlios.de  Sun Jan  8 09:46:09 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Sun, 08 Jan 2006 09:46:09 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/libmagus/tests Makefile.am test1.cc"
+Message-ID: <43C0D151.mailFDQ11RK5U@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/libmagus/tests
+In directory sheep:/tmp/cvs-serv19809/libmagus/tests
+
+Added Files:
+	Makefile.am test1.cc 
+Log Message:
+first test: mit Praxispunkten steigern
+monotone christof at petig-baender.de 01 Jan 2006 22:29:25 +0000 28d70eaea47308a2694e0783d2fb5ea4bf71904a
+
+
+
+From christof at berlios.de  Sun Jan  8 09:46:25 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Sun, 08 Jan 2006 09:46:25 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/libmagus Abenteurer.cc Abenteurer.hh
+ Makefile.am"
+Message-ID: <43C0D161.mailFE911K9VX@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/libmagus
+In directory sheep:/tmp/cvs-serv19809/libmagus
+
+Modified Files:
+	Abenteurer.cc Abenteurer.hh Makefile.am 
+Log Message:
+vereinfache Form f??r scripting: get_known(typ,name,zusatz)
+monotone christof at petig-baender.de 01 Jan 2006 22:42:10 +0000 c2d9cecb84a0f7e0c58906d4832318787dab04c7
+
+
+
+From christof at berlios.de  Sun Jan  8 09:46:25 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Sun, 08 Jan 2006 09:46:25 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard configure.in"
+Message-ID: <43C0D161.mailFE71FY8E2@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard
+In directory sheep:/tmp/cvs-serv19809
+
+Modified Files:
+	configure.in 
+Log Message:
+vereinfache Form f??r scripting: get_known(typ,name,zusatz)
+monotone christof at petig-baender.de 01 Jan 2006 22:42:10 +0000 c2d9cecb84a0f7e0c58906d4832318787dab04c7
+
+
+
+From christof at berlios.de  Sun Jan  8 09:46:28 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Sun, 08 Jan 2006 09:46:28 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/libmagus Abenteurer.cc Ausgabe.hh
+ Datenbank.hh Grad_anstieg.hh Prototyp2.hh magus_paths.h"
+Message-ID: <43C0D164.mailFES189RB7@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/libmagus
+In directory sheep:/tmp/cvs-serv19809/libmagus
+
+Modified Files:
+	Abenteurer.cc Ausgabe.hh Datenbank.hh Grad_anstieg.hh 
+	Prototyp2.hh magus_paths.h 
+Log Message:
+test1 compiliert
+monotone christof at petig-baender.de 01 Jan 2006 22:55:04 +0000 dee3d4b713848799debbbd109ceff9160242432e
+
+
+
+From christof at berlios.de  Sun Jan  8 09:46:28 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Sun, 08 Jan 2006 09:46:28 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/libmagus/tests Makefile.am test1.cc"
+Message-ID: <43C0D164.mailFEU112GK6@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/libmagus/tests
+In directory sheep:/tmp/cvs-serv19809/libmagus/tests
+
+Modified Files:
+	Makefile.am test1.cc 
+Log Message:
+test1 compiliert
+monotone christof at petig-baender.de 01 Jan 2006 22:55:04 +0000 dee3d4b713848799debbbd109ceff9160242432e
+
+
+
+From christof at berlios.de  Sun Jan  8 09:46:01 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Sun, 08 Jan 2006 09:46:01 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/libmagus Zufallscharakter.cc"
+Message-ID: <43C0D149.mailFCU11CN23@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/libmagus
+In directory sheep:/tmp/cvs-serv19809/libmagus
+
+Modified Files:
+	Zufallscharakter.cc 
+Log Message:
+;
+monotone christof at petig-baender.de 31 Dec 2005 06:54:55 +0000 7aa1ea1ea253cdc4345e5e2b7a75e99c88affd90
+
+
+
+From christof at berlios.de  Sun Jan  8 09:46:30 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Sun, 08 Jan 2006 09:46:30 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/libmagus/tests test1.cc"
+Message-ID: <43C0D166.mailFF51JP4V4@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/libmagus/tests
+In directory sheep:/tmp/cvs-serv19809/libmagus/tests
+
+Modified Files:
+	test1.cc 
+Log Message:
+actually run the test (but segfault)
+monotone christof at petig-baender.de 01 Jan 2006 22:59:29 +0000 7f6f72666b96e0e2e79839ea19810f322fa9c2e1
+
+
+
+From christof at berlios.de  Sun Jan  8 09:46:33 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Sun, 08 Jan 2006 09:46:33 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/libmagus/tests NOTIZEN"
+Message-ID: <43C0D169.mailFFB1101OZ@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/libmagus/tests
+In directory sheep:/tmp/cvs-serv19809/libmagus/tests
+
+Added Files:
+	NOTIZEN 
+Log Message:
+dito
+monotone christof at petig-baender.de 01 Jan 2006 23:04:50 +0000 f5170e147527f97061b29e3e745de0c457075367
+
+
+
+From christof at berlios.de  Sun Jan  8 09:46:40 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Sun, 08 Jan 2006 09:46:40 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/libmagus/tests test1.cc"
+Message-ID: <43C0D170.mailFFJ112B8G@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/libmagus/tests
+In directory sheep:/tmp/cvs-serv19809/libmagus/tests
+
+Modified Files:
+	test1.cc 
+Log Message:
+schnell weg mit dieser veralteten API
+monotone christof at petig-baender.de 01 Jan 2006 23:14:38 +0000 77a8e4802569d22e4cee9ace29f1a2709b0c8cc5
+
+
+
+From christof at berlios.de  Sun Jan  8 09:46:40 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Sun, 08 Jan 2006 09:46:40 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/libmagus test.cc"
+Message-ID: <43C0D170.mailFFH1J9LN3@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/libmagus
+In directory sheep:/tmp/cvs-serv19809/libmagus
+
+Modified Files:
+	test.cc 
+Log Message:
+schnell weg mit dieser veralteten API
+monotone christof at petig-baender.de 01 Jan 2006 23:14:38 +0000 77a8e4802569d22e4cee9ace29f1a2709b0c8cc5
+
+
+
+From christof at berlios.de  Sun Jan  8 09:46:42 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Sun, 08 Jan 2006 09:46:42 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/libmagus Abenteurer.hh
+ Abenteurer_steigern.cc"
+Message-ID: <43C0D172.mailFFS11S8TS@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/libmagus
+In directory sheep:/tmp/cvs-serv19809/libmagus
+
+Modified Files:
+	Abenteurer.hh Abenteurer_steigern.cc 
+Log Message:
+reimplemented modify (about to die)
+monotone christof at petig-baender.de 01 Jan 2006 23:31:31 +0000 eb049265387c6c2afa4b83337fcae2ea58cb3e75
+
+
+
+From christof at berlios.de  Sun Jan  8 09:46:45 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Sun, 08 Jan 2006 09:46:45 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard NEWS"
+Message-ID: <43C0D175.mailFFY11LSK1@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard
+In directory sheep:/tmp/cvs-serv19809
+
+Modified Files:
+	NEWS 
+Log Message:
+weg mit modify
+monotone christof at petig-baender.de 01 Jan 2006 23:33:41 +0000 9a3b713fc4c5474fd4d54cc215175e90328c9285
+
+
+
+From christof at berlios.de  Sun Jan  8 09:46:45 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Sun, 08 Jan 2006 09:46:45 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/libmagus Abenteurer_steigern.cc"
+Message-ID: <43C0D175.mailFG018PCML@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/libmagus
+In directory sheep:/tmp/cvs-serv19809/libmagus
+
+Modified Files:
+	Abenteurer_steigern.cc 
+Log Message:
+weg mit modify
+monotone christof at petig-baender.de 01 Jan 2006 23:33:41 +0000 9a3b713fc4c5474fd4d54cc215175e90328c9285
+
+
+
+From christof at berlios.de  Sun Jan  8 09:46:47 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Sun, 08 Jan 2006 09:46:47 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/libmagus Abenteurer_steigern.cc"
+Message-ID: <43C0D177.mailFG911XQ0N@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/libmagus
+In directory sheep:/tmp/cvs-serv19809/libmagus
+
+Modified Files:
+	Abenteurer_steigern.cc 
+Log Message:
+typo
+monotone christof at petig-baender.de 01 Jan 2006 23:36:06 +0000 fe983a2d136cf7d5421ef170057ed5bd97d31d4e
+
+
+
+From christof at berlios.de  Sun Jan  8 09:46:50 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Sun, 08 Jan 2006 09:46:50 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/libmagus/tests test2.cc test3.cc Ma.magus
+ Makefile.am"
+Message-ID: <43C0D17A.mailFGH11OPBZ@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/libmagus/tests
+In directory sheep:/tmp/cvs-serv19809/libmagus/tests
+
+Modified Files:
+	Ma.magus Makefile.am 
+Added Files:
+	test2.cc test3.cc 
+Log Message:
+Zustandsbeschreibung 
+monotone christof at petig-baender.de 01 Jan 2006 23:54:01 +0000 e02610a03ee5104803a4d4b442c73b96413c3ee5
+
+
+
+From christof at berlios.de  Sun Jan  8 09:46:50 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Sun, 08 Jan 2006 09:46:50 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard NEWS TODO"
+Message-ID: <43C0D17A.mailFGF11Y90D@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard
+In directory sheep:/tmp/cvs-serv19809
+
+Modified Files:
+	NEWS TODO 
+Log Message:
+Zustandsbeschreibung 
+monotone christof at petig-baender.de 01 Jan 2006 23:54:01 +0000 e02610a03ee5104803a4d4b442c73b96413c3ee5
+
+
+
+From christof at berlios.de  Sun Jan  8 09:46:53 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Sun, 08 Jan 2006 09:46:53 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/libmagus magus2txt.cc Makefile.am"
+Message-ID: <43C0D17D.mailFGS11Y1LJ@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/libmagus
+In directory sheep:/tmp/cvs-serv19809/libmagus
+
+Modified Files:
+	Makefile.am 
+Added Files:
+	magus2txt.cc 
+Log Message:
+magus2txt
+monotone christof at petig-baender.de 02 Jan 2006 13:05:47 +0000 47c9b4465cf80123588c078168d5121dd400cb57
+
+
+
+From christof at berlios.de  Sun Jan  8 09:46:53 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Sun, 08 Jan 2006 09:46:53 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/libmagus/tests test4.cc"
+Message-ID: <43C0D17D.mailFGU11S89B@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/libmagus/tests
+In directory sheep:/tmp/cvs-serv19809/libmagus/tests
+
+Added Files:
+	test4.cc 
+Log Message:
+magus2txt
+monotone christof at petig-baender.de 02 Jan 2006 13:05:47 +0000 47c9b4465cf80123588c078168d5121dd400cb57
+
+
+
+From christof at berlios.de  Sun Jan  8 09:46:56 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Sun, 08 Jan 2006 09:46:56 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/libmagus/tests Makefile.am test4.cc"
+Message-ID: <43C0D180.mailFH514PRU9@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/libmagus/tests
+In directory sheep:/tmp/cvs-serv19809/libmagus/tests
+
+Modified Files:
+	Makefile.am test4.cc 
+Log Message:
+test4 (geht auch nicht)
+monotone christof at petig-baender.de 02 Jan 2006 13:13:47 +0000 b859c6065bef9c76ec228343dc1c38c8b7f498ff
+
+
+
+From christof at berlios.de  Sun Jan  8 09:46:56 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Sun, 08 Jan 2006 09:46:56 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/libmagus magus2txt.cc"
+Message-ID: <43C0D180.mailFH31TELFQ@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/libmagus
+In directory sheep:/tmp/cvs-serv19809/libmagus
+
+Modified Files:
+	magus2txt.cc 
+Log Message:
+test4 (geht auch nicht)
+monotone christof at petig-baender.de 02 Jan 2006 13:13:47 +0000 b859c6065bef9c76ec228343dc1c38c8b7f498ff
+
+
+
+From christof at berlios.de  Sun Jan  8 09:46:58 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Sun, 08 Jan 2006 09:46:58 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/libmagus Abenteurer_steigern.cc"
+Message-ID: <43C0D182.mailFHE11F1P8@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/libmagus
+In directory sheep:/tmp/cvs-serv19809/libmagus
+
+Modified Files:
+	Abenteurer_steigern.cc 
+Log Message:
+check, soll etc 
+monotone christof at petig-baender.de 02 Jan 2006 16:33:58 +0000 ce47cb5e10ea81db2643b0d73b168c47e7d8a3d4
+
+
+
+From christof at berlios.de  Sun Jan  8 09:46:58 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Sun, 08 Jan 2006 09:46:58 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/libmagus/tests soll Makefile.am test4.cc"
+Message-ID: <43C0D182.mailFHG11SMM3@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/libmagus/tests
+In directory sheep:/tmp/cvs-serv19809/libmagus/tests
+
+Modified Files:
+	Makefile.am test4.cc 
+Added Files:
+	soll 
+Log Message:
+check, soll etc 
+monotone christof at petig-baender.de 02 Jan 2006 16:33:58 +0000 ce47cb5e10ea81db2643b0d73b168c47e7d8a3d4
+
+
+
+From christof at berlios.de  Sun Jan  8 09:47:06 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Sun, 08 Jan 2006 09:47:06 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/libmagus Abenteurer_steigern.cc
+ MidgardBasicElement.cc MidgardBasicElement.hh"
+Message-ID: <43C0D18A.mailFIR11PLXR@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/libmagus
+In directory sheep:/tmp/cvs-serv19809/libmagus
+
+Modified Files:
+	Abenteurer_steigern.cc MidgardBasicElement.cc 
+	MidgardBasicElement.hh 
+Log Message:
+dup verwenden um die ??nderungen nur lokal zu halten
+monotone christof at petig-baender.de 02 Jan 2006 22:04:51 +0000 104245f045720cb3040f3bdb87f6d700364c86b8
+
+
+
+From christof at berlios.de  Sun Jan  8 09:47:09 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Sun, 08 Jan 2006 09:47:09 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/libmagus/tests test1.cc"
+Message-ID: <43C0D18D.mailFIX1R5MMN@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/libmagus/tests
+In directory sheep:/tmp/cvs-serv19809/libmagus/tests
+
+Modified Files:
+	test1.cc 
+Log Message:
+steigern mit Praxispunkten geht jetzt (teilweise), aber bei Undo habe ich Zweifel
+monotone christof at petig-baender.de 02 Jan 2006 22:10:03 +0000 b40b297dc93badaafae78fb0bab839f135cb3c73
+
+
+
+From christof at berlios.de  Sun Jan  8 09:47:11 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Sun, 08 Jan 2006 09:47:11 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard TODO"
+Message-ID: <43C0D18F.mailFJ311DVNI@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard
+In directory sheep:/tmp/cvs-serv19809
+
+Modified Files:
+	TODO 
+Log Message:
+bittere Einsicht ...
+monotone christof at petig-baender.de 02 Jan 2006 22:21:09 +0000 31266bd4f1838afb196b656f1d88d6b70f1ba5ae
+
+
+
+From christof at berlios.de  Sun Jan  8 09:47:01 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Sun, 08 Jan 2006 09:47:01 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/libmagus MidgardBasicElement.cc
+ MidgardBasicElement.hh"
+Message-ID: <43C0D185.mailFHQ1QCIJW@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/libmagus
+In directory sheep:/tmp/cvs-serv19809/libmagus
+
+Modified Files:
+	MidgardBasicElement.cc MidgardBasicElement.hh 
+Log Message:
+MBEmlt duplizieren (wird f??r PP gebraucht)
+monotone christof at petig-baender.de 02 Jan 2006 21:54:22 +0000 0538739ac94a99747c8938db4fc5f9daca1c62c2
+
+
+
+From christof at berlios.de  Sun Jan  8 09:48:08 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Sun, 08 Jan 2006 09:48:08 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/libmagus Abenteurer.cc
+ AbenteurerLernpunkte.cc Abenteurer_steigern.cc Beruf.cc Beruf.hh
+ Fertigkeiten.cc Fertigkeiten_angeboren.cc Grundwerte.cc KI.cc KiDo.cc
+ LaTeX_drucken.cc LernListen.cc Lernschema.cc Schrift.cc Spezies.cc
+ Sprache.cc Waffe.cc WaffeGrund.cc Zauber.cc Zauberwerk.cc
+ Zufall_Lernschema.cc Zufall_Spezies_Typ.cc zufall_steigern.cc"
+Message-ID: <43C0D1C8.mailFKP1W1VP5@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/libmagus
+In directory sheep:/tmp/cvs-serv20159/libmagus
+
+Modified Files:
+	Abenteurer.cc AbenteurerLernpunkte.cc Abenteurer_steigern.cc 
+	Beruf.cc Beruf.hh Fertigkeiten.cc Fertigkeiten_angeboren.cc 
+	Grundwerte.cc KI.cc KiDo.cc LaTeX_drucken.cc LernListen.cc 
+	Lernschema.cc Schrift.cc Spezies.cc Sprache.cc Waffe.cc 
+	WaffeGrund.cc Zauber.cc Zauberwerk.cc Zufall_Lernschema.cc 
+	Zufall_Spezies_Typ.cc zufall_steigern.cc 
+Log Message:
+einige (mitlerweile) unn??tige &* weggenommen
+monotone christof at petig-baender.de 03 Jan 2006 19:37:28 +0000 8643207fa5f91ed8e82355d40f65127186ec667c
+
+
+
+From christof at berlios.de  Sun Jan  8 09:48:12 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Sun, 08 Jan 2006 09:48:12 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/libmagus Abenteurer.cc
+ Abenteurer_steigern.cc"
+Message-ID: <43C0D1CC.mailFKV11DM26@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/libmagus
+In directory sheep:/tmp/cvs-serv20159/libmagus
+
+Modified Files:
+	Abenteurer.cc Abenteurer_steigern.cc 
+Log Message:
+Kopie einer Fertigkeit erzeugen, damit ??ltere Undo Schritte nicht beeintr??chtigt werden
+monotone christof at petig-baender.de 03 Jan 2006 20:42:13 +0000 b9e7b7c0c2a6dca11a2c8f59c60608fe9448bb70
+
+
+
+From christof at berlios.de  Sun Jan  8 09:48:14 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Sun, 08 Jan 2006 09:48:14 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard TODO"
+Message-ID: <43C0D1CE.mailFL21SOZSC@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard
+In directory sheep:/tmp/cvs-serv20159
+
+Modified Files:
+	TODO 
+Log Message:
+Praxispunkte funktionieren wieder nach Plan
+monotone christof at petig-baender.de 03 Jan 2006 21:08:47 +0000 1f58a845cc02ae9b571546cf56334f8e18a7108a
+
+
+
+From christof at berlios.de  Sun Jan  8 09:48:14 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Sun, 08 Jan 2006 09:48:14 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/libmagus/tests soll"
+Message-ID: <43C0D1CE.mailFL61A9AVR@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/libmagus/tests
+In directory sheep:/tmp/cvs-serv20159/libmagus/tests
+
+Modified Files:
+	soll 
+Log Message:
+Praxispunkte funktionieren wieder nach Plan
+monotone christof at petig-baender.de 03 Jan 2006 21:08:47 +0000 1f58a845cc02ae9b571546cf56334f8e18a7108a
+
+
+
+From christof at berlios.de  Sun Jan  8 09:48:14 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Sun, 08 Jan 2006 09:48:14 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/libmagus Abenteurer_steigern.cc"
+Message-ID: <43C0D1CE.mailFL41DZBKS@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/libmagus
+In directory sheep:/tmp/cvs-serv20159/libmagus
+
+Modified Files:
+	Abenteurer_steigern.cc 
+Log Message:
+Praxispunkte funktionieren wieder nach Plan
+monotone christof at petig-baender.de 03 Jan 2006 21:08:47 +0000 1f58a845cc02ae9b571546cf56334f8e18a7108a
+
+
+
+From christof at berlios.de  Sun Jan  8 09:48:18 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Sun, 08 Jan 2006 09:48:18 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard NEWS TODO"
+Message-ID: <43C0D1D2.mailFLK11V5UM@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard
+In directory sheep:/tmp/cvs-serv20159
+
+Modified Files:
+	NEWS TODO 
+Log Message:
+magus2pdf, Schriftausdruck wieder ok
+monotone christof at petig-baender.de 03 Jan 2006 21:34:13 +0000 4fa9e8ce510662f7050974b0493b23b75427f3cd
+
+
+
+From christof at berlios.de  Sun Jan  8 09:48:18 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Sun, 08 Jan 2006 09:48:18 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/libmagus LaTeX_drucken.cc Makefile.am"
+Message-ID: <43C0D1D2.mailFLM1F0L9P@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/libmagus
+In directory sheep:/tmp/cvs-serv20159/libmagus
+
+Modified Files:
+	LaTeX_drucken.cc Makefile.am 
+Log Message:
+magus2pdf, Schriftausdruck wieder ok
+monotone christof at petig-baender.de 03 Jan 2006 21:34:13 +0000 4fa9e8ce510662f7050974b0493b23b75427f3cd
+
+
+
+From christof at berlios.de  Sun Jan  8 09:48:37 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Sun, 08 Jan 2006 09:48:37 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard ChangeLog configure.in midgard.glade"
+Message-ID: <43C0D1E5.mailFM411YBX9@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard
+In directory sheep:/tmp/cvs-serv20159
+
+Modified Files:
+	ChangeLog configure.in midgard.glade 
+Log Message:
+PP UI tweaks
+monotone christof at petig-baender.de 03 Jan 2006 22:11:25 +0000 9169af8efb1ff6562cdbd6562dc1bd5778c16a7c
+
+
+
+From christof at berlios.de  Sun Jan  8 09:48:37 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Sun, 08 Jan 2006 09:48:37 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/src table_steigern.cc
+ table_steigern_glade.cc table_steigern_glade.hh table_steigern_main.cc"
+Message-ID: <43C0D1E5.mailFM911QCIY@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/src
+In directory sheep:/tmp/cvs-serv20159/src
+
+Modified Files:
+	table_steigern.cc table_steigern_glade.cc 
+	table_steigern_glade.hh table_steigern_main.cc 
+Log Message:
+PP UI tweaks
+monotone christof at petig-baender.de 03 Jan 2006 22:11:25 +0000 9169af8efb1ff6562cdbd6562dc1bd5778c16a7c
+
+
+
+From christof at berlios.de  Sun Jan  8 09:48:49 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Sun, 08 Jan 2006 09:48:49 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard ChangeLog midgard.glade"
+Message-ID: <43C0D1F1.mailFMJ1HYPEA@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard
+In directory sheep:/tmp/cvs-serv20159
+
+Modified Files:
+	ChangeLog midgard.glade 
+Log Message:
+PP UI tweaks #2
+monotone christof at petig-baender.de 03 Jan 2006 22:38:20 +0000 2528d793637c72d14b2a1131ece7b211f25c24bd
+
+
+
+From christof at berlios.de  Sun Jan  8 09:48:49 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Sun, 08 Jan 2006 09:48:49 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/src table_ausruestung_glade.cc
+ table_steigern.cc table_steigern_glade.cc table_steigern_main.cc
+ table_steigern_midgard_basic_elemente.cc"
+Message-ID: <43C0D1F1.mailFMM1YQD6G@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/src
+In directory sheep:/tmp/cvs-serv20159/src
+
+Modified Files:
+	table_ausruestung_glade.cc table_steigern.cc 
+	table_steigern_glade.cc table_steigern_main.cc 
+	table_steigern_midgard_basic_elemente.cc 
+Log Message:
+PP UI tweaks #2
+monotone christof at petig-baender.de 03 Jan 2006 22:38:20 +0000 2528d793637c72d14b2a1131ece7b211f25c24bd
+
+
+
+From christof at berlios.de  Sun Jan  8 09:48:53 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Sun, 08 Jan 2006 09:48:53 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/libmagus Wizard.cc"
+Message-ID: <43C0D1F5.mailFMZ1CC2BK@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/libmagus
+In directory sheep:/tmp/cvs-serv20159/libmagus
+
+Modified Files:
+	Wizard.cc 
+Log Message:
+mehr Wizard
+monotone christof at petig-baender.de 03 Jan 2006 22:53:38 +0000 06773d724697b7510df10c7c40bc4ab372652b5a
+
+
+
+From christof at berlios.de  Sun Jan  8 09:48:53 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Sun, 08 Jan 2006 09:48:53 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard NEWS TODO"
+Message-ID: <43C0D1F5.mailFMX11QSJ8@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard
+In directory sheep:/tmp/cvs-serv20159
+
+Modified Files:
+	NEWS TODO 
+Log Message:
+mehr Wizard
+monotone christof at petig-baender.de 03 Jan 2006 22:53:38 +0000 06773d724697b7510df10c7c40bc4ab372652b5a
+
+
+
+From christof at berlios.de  Thu Jan 12 22:58:35 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Thu, 12 Jan 2006 22:58:35 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/libmagus Zufall_Lernschema.cc"
+Message-ID: <43C6D10B.mail9T011DG3T@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/libmagus
+In directory sheep:/tmp/cvs-serv12701/libmagus
+
+Modified Files:
+	Zufall_Lernschema.cc 
+Log Message:
+fix g++ -3.3 issue
+monotone christof at petig-baender.de 12 Jan 2006 21:58:17 +0000 f0be7ec4ab4600f6947aecad04d6c7755a9fc380
+
+
+
+From sandro at berlios.de  Fri Jan 13 16:28:23 2006
+From: sandro at berlios.de (sandro at BerliOS)
+Date: Fri, 13 Jan 2006 16:28:23 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/libmagus Zufall_Spezies_Typ.cc"
+Message-ID: <43C7C717.mailIKW11XL0U@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/libmagus
+In directory sheep:/tmp/cvs-serv23951
+
+Modified Files:
+	Zufall_Spezies_Typ.cc 
+Log Message:
+make compatible with gcc 3.3.5
+
+
+
+
+From christof at berlios.de  Mon Jan 16 09:06:32 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Mon, 16 Jan 2006 09:06:32 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/libmagus magus2pdf.cc"
+Message-ID: <43CB5408.mail13S116TUR@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/libmagus
+In directory sheep:/tmp/cvs-serv1426/libmagus
+
+Added Files:
+	magus2pdf.cc 
+Log Message:
+added magus2png.cc
+monotone christof at petig-baender.de 16 Jan 2006 08:05:51 +0000 0e2dc9392611744d71b697ba7ded68939cfe0bc2
+
+
+
+From christof at berlios.de  Fri Jan 27 12:51:59 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Fri, 27 Jan 2006 12:51:59 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard midgard.glade"
+Message-ID: <43DA095F.mail6HZ1GZ2UF@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard
+In directory sheep:/tmp/cvs-serv8147
+
+Modified Files:
+	midgard.glade 
+Log Message:
+EventBox geht auch ohne R??nder
+monotone christof at petig-baender.de 27 Jan 2006 11:39:13 +0000 90a1dd8300b7f7db8cc41093bb8210587e2b0b33
+
+
+
+From christof at berlios.de  Fri Jan 27 12:52:05 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Fri, 27 Jan 2006 12:52:05 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard ChangeLog midgard.glade"
+Message-ID: <43DA0965.mail6NI11AAXP@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard
+In directory sheep:/tmp/cvs-serv8147
+
+Modified Files:
+	ChangeLog midgard.glade 
+Log Message:
+einige Boxen unsichtbar machen
+monotone christof at petig-baender.de 27 Jan 2006 11:51:19 +0000 7208289e25b92a0ade21209302393c1694bef160
+
+
+
+From christof at berlios.de  Fri Jan 27 12:52:11 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Fri, 27 Jan 2006 12:52:11 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/src midgard_CG_glade.cc
+ table_ausruestung_glade.cc table_grundwerte_glade.cc
+ table_lernschema_glade.cc table_steigern_glade.cc table_zufall_glade.cc"
+Message-ID: <43DA096B.mail6P71Q9EBO@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/src
+In directory sheep:/tmp/cvs-serv8147/src
+
+Modified Files:
+	midgard_CG_glade.cc table_ausruestung_glade.cc 
+	table_grundwerte_glade.cc table_lernschema_glade.cc 
+	table_steigern_glade.cc table_zufall_glade.cc 
+Log Message:
+einige Boxen unsichtbar machen
+monotone christof at petig-baender.de 27 Jan 2006 11:51:19 +0000 7208289e25b92a0ade21209302393c1694bef160
+
+
+
+From christof at berlios.de  Mon Jan 30 08:33:39 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Mon, 30 Jan 2006 08:33:39 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/libmagus Abenteurer.cc Abenteurer.hh
+ LernListen_steigern.cc"
+Message-ID: <43DDC153.mail1YI11EKYD@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/libmagus
+In directory sheep:/tmp/cvs-serv2518/libmagus
+
+Modified Files:
+	Abenteurer.cc Abenteurer.hh LernListen_steigern.cc 
+Log Message:
+Abenteurer::get_unknown, test5: Sprache mit PP
+monotone christof at petig-baender.de 29 Jan 2006 22:33:55 +0000 191f35a48b30ea34ee6fa8951f53496825d7bc77
+
+
+
+From christof at berlios.de  Mon Jan 30 08:33:39 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Mon, 30 Jan 2006 08:33:39 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/src
+ table_steigern_midgard_basic_elemente.cc"
+Message-ID: <43DDC153.mail1Z011BA7P@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/src
+In directory sheep:/tmp/cvs-serv2518/src
+
+Modified Files:
+	table_steigern_midgard_basic_elemente.cc 
+Log Message:
+Abenteurer::get_unknown, test5: Sprache mit PP
+monotone christof at petig-baender.de 29 Jan 2006 22:33:55 +0000 191f35a48b30ea34ee6fa8951f53496825d7bc77
+
+
+
+From christof at berlios.de  Mon Jan 30 08:33:39 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Mon, 30 Jan 2006 08:33:39 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/libmagus/tests test5.cc Makefile.am"
+Message-ID: <43DDC153.mail1YX11LLKH@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/libmagus/tests
+In directory sheep:/tmp/cvs-serv2518/libmagus/tests
+
+Modified Files:
+	Makefile.am 
+Added Files:
+	test5.cc 
+Log Message:
+Abenteurer::get_unknown, test5: Sprache mit PP
+monotone christof at petig-baender.de 29 Jan 2006 22:33:55 +0000 191f35a48b30ea34ee6fa8951f53496825d7bc77
+
+
+
+From christof at berlios.de  Mon Jan 30 08:33:47 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Mon, 30 Jan 2006 08:33:47 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/libmagus Abenteurer_steigern.cc"
+Message-ID: <43DDC15B.mail20Q1OV30G@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/libmagus
+In directory sheep:/tmp/cvs-serv2518/libmagus
+
+Modified Files:
+	Abenteurer_steigern.cc 
+Log Message:
+Sprachen mit PP lernen
+monotone christof at petig-baender.de 29 Jan 2006 22:51:32 +0000 e3cd559b0ebcae90462ad4a34220c17e83774a68
+
+
+
+From christof at berlios.de  Mon Jan 30 08:33:47 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Mon, 30 Jan 2006 08:33:47 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/libmagus/tests Makefile.am"
+Message-ID: <43DDC15B.mail20S14JC35@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/libmagus/tests
+In directory sheep:/tmp/cvs-serv2518/libmagus/tests
+
+Modified Files:
+	Makefile.am 
+Log Message:
+Sprachen mit PP lernen
+monotone christof at petig-baender.de 29 Jan 2006 22:51:32 +0000 e3cd559b0ebcae90462ad4a34220c17e83774a68
+
+
+
+From christof at berlios.de  Mon Jan 30 08:33:53 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Mon, 30 Jan 2006 08:33:53 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/libmagus Abenteurer.cc Abenteurer.hh
+ Abenteurer_steigern.cc KI.cc"
+Message-ID: <43DDC161.mail21811DQFL@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/libmagus
+In directory sheep:/tmp/cvs-serv2518/libmagus
+
+Modified Files:
+	Abenteurer.cc Abenteurer.hh Abenteurer_steigern.cc KI.cc 
+Log Message:
+Sprache korrekt mit Praxispunkten erlernen (+7/+9)
+monotone christof at petig-baender.de 30 Jan 2006 07:06:39 +0000 743c104579a31bfbbb7a27e03dbde448aba40908
+
+
+
+From christof at berlios.de  Mon Jan 30 08:33:58 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Mon, 30 Jan 2006 08:33:58 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/libmagus Abenteurer_steigern.cc"
+Message-ID: <43DDC166.mail22K1TDHPN@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/libmagus
+In directory sheep:/tmp/cvs-serv2518/libmagus
+
+Modified Files:
+	Abenteurer_steigern.cc 
+Log Message:
+Sprache PP: PP nicht setzen
+monotone christof at petig-baender.de 30 Jan 2006 07:06:55 +0000 65cd5f045231903bbcff4fa26165e8554093fa51
+
+
+
+From christof at berlios.de  Mon Jan 30 08:34:09 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Mon, 30 Jan 2006 08:34:09 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/libmagus/tests soll"
+Message-ID: <43DDC171.mail23C11AYU1@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/libmagus/tests
+In directory sheep:/tmp/cvs-serv2518/libmagus/tests
+
+Modified Files:
+	soll 
+Log Message:
+so geht es jetzt endlich ...
+monotone christof at petig-baender.de 30 Jan 2006 07:31:36 +0000 a24cc0fead309090a433862ced7ab845a7bfea23
+
+
+
+From christof at berlios.de  Mon Jan 30 08:34:09 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Mon, 30 Jan 2006 08:34:09 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/libmagus Abenteurer_steigern.cc"
+Message-ID: <43DDC171.mail23A11OF8L@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/libmagus
+In directory sheep:/tmp/cvs-serv2518/libmagus
+
+Modified Files:
+	Abenteurer_steigern.cc 
+Log Message:
+so geht es jetzt endlich ...
+monotone christof at petig-baender.de 30 Jan 2006 07:31:36 +0000 a24cc0fead309090a433862ced7ab845a7bfea23
+
+
+
+From christof at berlios.de  Mon Jan 30 08:34:14 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Mon, 30 Jan 2006 08:34:14 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/libmagus/tests original"
+Message-ID: <43DDC176.mail25L16I1XJ@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/libmagus/tests
+In directory sheep:/tmp/cvs-serv2518/libmagus/tests
+
+Added Files:
+	original 
+Log Message:
+original script vergessen
+monotone christof at petig-baender.de 30 Jan 2006 07:33:02 +0000 76aa83487b30dcae77dc3a60fd965ef7932a4175
+
+
+
+From christof at berlios.de  Mon Jan 30 08:34:14 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Mon, 30 Jan 2006 08:34:14 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard .mt-attrs"
+Message-ID: <43DDC176.mail25I1BJ3J9@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard
+In directory sheep:/tmp/cvs-serv2518
+
+Modified Files:
+	.mt-attrs 
+Log Message:
+original script vergessen
+monotone christof at petig-baender.de 30 Jan 2006 07:33:02 +0000 76aa83487b30dcae77dc3a60fd965ef7932a4175
+
+
+

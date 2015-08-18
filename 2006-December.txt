@@ -1,0 +1,22 @@
+From christof at mail.berlios.de  Mon Dec 18 13:51:16 2006
+From: christof at mail.berlios.de (christof at BerliOS)
+Date: Mon, 18 Dec 2006 13:51:16 +0100
+Subject: [Magus-commits] Midgard CVS: "charaktere Inhalt.html"
+Message-ID: <45868EC4.mail37G11NS34@sheep.berlios.de>
+
+Update of /cvsroot/midgard/charaktere
+In directory sheep:/tmp/cvs-serv4150
+
+Modified Files:
+	Inhalt.html 
+Log Message:
+merge of d9cd90774fddd3a60521daf3b888f979889a1567
+     and e6c82db528979c8a723526697188c0c373dc0411
+
+monotone christof.petig at arcor.de 18 Dec 2006 12:50:55 +0000 d2b7d15026b9d7816fb3888207d5d38f282fda79
+-------------------
+Inhalt aktualisiert, Malte hatte gen??gend Zeit, zu widersprechen
+monotone christof at petig-baender.de 27 Feb 2006 15:59:38 +0000 d9cd90774fddd3a60521daf3b888f979889a1567
+
+
+

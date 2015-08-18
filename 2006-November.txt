@@ -1,0 +1,18 @@
+From christof at mail.berlios.de  Thu Nov 16 18:21:50 2006
+From: christof at mail.berlios.de (christof at BerliOS)
+Date: Thu, 16 Nov 2006 18:21:50 +0100
+Subject: [Magus-commits] Midgard CVS: "midgard/libmagus/tests soll
+ waffenschwierigkeit.soll"
+Message-ID: <455C9E2E.mailEUV17W7CE@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/libmagus/tests
+In directory sheep:/tmp/cvs-serv19226/libmagus/tests
+
+Modified Files:
+	soll waffenschwierigkeit.soll 
+Log Message:
+check now passes again
+monotone christof at petig-baender.de 16 Nov 2006 17:21:11 +0000 41887b6318ed19219a37939156001062d2811eb0
+
+
+

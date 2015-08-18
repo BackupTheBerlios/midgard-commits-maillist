@@ -1,0 +1,85 @@
+From christof at berlios.de  Fri Jun 16 08:52:47 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Fri, 16 Jun 2006 08:52:47 +0200
+Subject: [Magus-commits] Midgard CVS: "midgard/libmagus/tests TeXTorture.magus"
+Message-ID: <4492553F.mailT31HINU3@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/libmagus/tests
+In directory sheep:/tmp/cvs-serv995/libmagus/tests
+
+Added Files:
+	TeXTorture.magus 
+Log Message:
+richtig fieser Programmtest
+monotone christof at petig-baender.de 15 Jun 2006 23:19:36 +0000 530cc95ac36f21abcb5a9f593af16a6a93209f49
+
+
+
+From christof at berlios.de  Fri Jun 16 08:52:53 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Fri, 16 Jun 2006 08:52:53 +0200
+Subject: [Magus-commits] Midgard CVS: "midgard/libmagus/tests TeXTorture.magus"
+Message-ID: <44925545.mailUS120V56@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/libmagus/tests
+In directory sheep:/tmp/cvs-serv995/libmagus/tests
+
+Modified Files:
+	TeXTorture.magus 
+Log Message:
+noch ein wenig fieses nachschieben
+monotone christof at petig-baender.de 15 Jun 2006 23:23:15 +0000 64b9e00047041377b8e8d300fb33efe760e973dc
+
+
+
+From christof at berlios.de  Fri Jun 16 08:52:57 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Fri, 16 Jun 2006 08:52:57 +0200
+Subject: [Magus-commits] Midgard CVS: "midgard/libmagus LaTeX_drucken.cc"
+Message-ID: <44925549.mailWK1N8GNP@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/libmagus
+In directory sheep:/tmp/cvs-serv995/libmagus
+
+Modified Files:
+	LaTeX_drucken.cc 
+Log Message:
+erster Versuch, { etc. zu erlauben
+monotone christof at petig-baender.de 15 Jun 2006 23:39:36 +0000 8ee4cb76806e68f95bb0f24418998d85d03fdcf2
+
+
+
+From christof at berlios.de  Fri Jun 16 08:53:08 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Fri, 16 Jun 2006 08:53:08 +0200
+Subject: [Magus-commits] Midgard CVS: "midgard NEWS configure.in"
+Message-ID: <44925554.mailXE117AMV@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard
+In directory sheep:/tmp/cvs-serv995
+
+Modified Files:
+	NEWS configure.in 
+Log Message:
+NEWS, Version
+monotone christof at petig-baender.de 16 Jun 2006 00:04:14 +0000 6241ed1cbfbb9ea85e1153a8150fc988e4858633
+
+
+
+From christof at berlios.de  Fri Jun 16 08:53:01 2006
+From: christof at berlios.de (christof at BerliOS)
+Date: Fri, 16 Jun 2006 08:53:01 +0200
+Subject: [Magus-commits] Midgard CVS: "midgard/libmagus LaTeX_drucken.cc"
+Message-ID: <4492554D.mailWT11OP2E@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/libmagus
+In directory sheep:/tmp/cvs-serv995/libmagus
+
+Modified Files:
+	LaTeX_drucken.cc 
+Log Message:
+fix the quoting bug
+monotone christof at petig-baender.de 16 Jun 2006 00:03:51 +0000 8aff1c50cbb738a4f76205c54f25ab5943b0900f
+
+
+

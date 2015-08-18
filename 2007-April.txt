@@ -1,0 +1,17 @@
+From sandro at mail.berlios.de  Fri Apr 13 11:27:27 2007
+From: sandro at mail.berlios.de (sandro at BerliOS)
+Date: Fri, 13 Apr 2007 11:27:27 +0200
+Subject: [Magus-commits] Midgard CVS: "midgard/pixmaps Regio_Buluga.png"
+Message-ID: <461F4CFF.mail82Q1124SL@sheep.berlios.de>
+
+Update of /cvsroot/midgard/midgard/pixmaps
+In directory sheep:/tmp/cvs-serv10263/pixmaps
+
+Added Files:
+	Regio_Buluga.png 
+Log Message:
+Icon f??r Buluga-Quellenbuch hinzugef??gt. (IIRC sind die verkleinerten Pixmaps nicht mehr notwendig? )
+
+
+
+
